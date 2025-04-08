@@ -5,6 +5,9 @@ Real Estate Price Predictor is a powerful and interactive web application built 
 
 This app is ideal for home buyers, real estate investors, and property analysts looking to get quick and data-driven price estimates.
 
+Check out the live app here:
+🔗 https://realestate-price-predictor.streamlit.app/
+
 ---
 
 ## Demo Video
