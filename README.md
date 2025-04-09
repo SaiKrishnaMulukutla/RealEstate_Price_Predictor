@@ -13,8 +13,7 @@ Check out the live app here:
 ## Demo Video
 🎥 Watch the Real Estate Price Predictor in action!
 
-https://github.com/user-attachments/assets/80f471c1-3a5b-4ec2-bcb8-1e8ce7140152
-
+https://github.com/user-attachments/assets/762261df-0f57-46ce-9e32-4952782babe0
 ## Key Features
 
 - **Live Price Prediction**: Predicts house prices in Bangalore based on user inputs.
